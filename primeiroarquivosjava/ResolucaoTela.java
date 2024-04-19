@@ -1,4 +1,4 @@
-package resolucaotela;
+package primeiroarquivosjava;
 
 import java.awt.Dimension;
 import java.awt.*;
