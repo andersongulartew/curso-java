@@ -1,4 +1,4 @@
-package primeirosarquivosjava;
+package src.primeirosarquivosjava;
 
 import java.awt.Dimension;
 import java.awt.*;

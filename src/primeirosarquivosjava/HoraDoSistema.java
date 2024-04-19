@@ -1,4 +1,4 @@
-package primeirosarquivosjava;
+package src.primeirosarquivosjava;
 
 import java.util.Date;
 
