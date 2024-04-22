@@ -5,14 +5,16 @@ public class ControleFluxo1 {
         // idade < 15 categoria infantil
         // idade >=15 && <18  categoria juvenil
         // idade >=18 adulto
-        int idade = 18;
+        int idade = 17;
+        String categoria;
 
-        if (idade > 18) {
-            System.out.println("categoria Infantil");
-        } else if (idade >= 15 && idade < 18){
-            System.out.println("Categoria Juvenil");
+        if (idade <= 15) {
+            categoria = "Infantil";
+        } else if (idade > 15 && idade < 18){
+            categoria = "Categoria Juvenil";
         }else{
-            System.out.println("Categoria Adulto");
+            categoria = "Categoria Adulto";
         }
+        System.out.println(categoria);
     }
 }
