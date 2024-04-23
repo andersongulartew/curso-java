@@ -1,7 +1,9 @@
 package src;
 
-public class ControleFluxo1 {
+public class ControleDeFluxo1 {
     public static void main(String[] args) {
+        // ELSE IF
+
         // idade < 15 categoria infantil
         // idade >=15 && <18  categoria juvenil
         // idade >=18 adulto
@@ -16,5 +18,14 @@ public class ControleFluxo1 {
             categoria = "Categoria Adulto";
         }
         System.out.println(categoria);
+
+        ////////////////////
+
+        int idade2 = 15;
+        String status;
+
+        // operador ternario
+        status = idade2 < 18 ? "Não adulto" : "Adulto";
+        System.out.println(status);
     }
 }
