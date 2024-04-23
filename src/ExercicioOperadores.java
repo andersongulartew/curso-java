@@ -1,7 +1,7 @@
 package src;
 
 
-public class Exercicio {
+public class ExercicioOperadores {
     public static void main(String[] args) {
 
 // Exercicio 1

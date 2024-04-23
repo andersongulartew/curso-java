@@ -10,8 +10,9 @@ public class ControleDeFluxo3 {
             contador ++;
         }
 
+        contador = 0;
         do {
-            System.out.println("dentro do while");
+            System.out.println("dentro do while" + contador++);
         }while (contador < 10);
 
         ///////////////////
