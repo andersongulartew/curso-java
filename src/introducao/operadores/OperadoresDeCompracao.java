@@ -1,4 +1,4 @@
-package src;
+package src.introducao.operadores;
 
 public class OperadoresDeCompracao {
     public static void main(String[] args) {

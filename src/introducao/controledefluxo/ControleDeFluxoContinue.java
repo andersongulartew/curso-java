@@ -1,6 +1,6 @@
-package src;
+package src.introducao.controledefluxo;
 
-public class ControleDeFluxo5 {
+public class ControleDeFluxoContinue {
     public static void main(String[] args) {
         // CONTINUE - faz o programa ler deste o inicio
 

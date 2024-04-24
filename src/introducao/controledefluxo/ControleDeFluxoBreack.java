@@ -1,6 +1,6 @@
-package src;
+package src.introducao.controledefluxo;
 
-public class ControleDeFluxo4 {
+public class ControleDeFluxoBreack {
     public static void main(String[] args) {
         //  BREACK - encerra a leitura na linha em que estiver o breack
 
@@ -14,7 +14,7 @@ public class ControleDeFluxo4 {
             if (valorParcela < 1000) {
                 break;
             }
-            System.out.println("parcela " + parcela + " :" + " R$ " + valorParcela);
+            System.out.println("parcela " + parcela + " :"  + valorParcela);
         }
     }
 }

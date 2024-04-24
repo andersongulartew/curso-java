@@ -1,6 +1,6 @@
-package src;
+package src.introducao.controledefluxo;
 
-public class ControleDeFluxo3 {
+public class ControleDeFluxoForWhileDoWhile {
     public static void main(String[] args) {
         // FOR ; WHILE ; DO WHILE
 

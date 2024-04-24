@@ -1,4 +1,4 @@
-package src.primeirosarquivosjava;
+package src.primeirosarquivos;
 
 public class PrimeiroPrograma {
     public static void main(String[] args){

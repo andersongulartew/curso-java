@@ -1,4 +1,4 @@
-package src;
+package src.introducao.variaveistiposprimitivos;
 
 
 // * na class * primeira letra de cada palavra sempre maiuscula   , CAMELCASE

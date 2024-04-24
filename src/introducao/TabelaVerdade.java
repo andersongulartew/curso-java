@@ -1,4 +1,4 @@
-package src;
+package src.introducao;
 
 public class TabelaVerdade {
     public static void main(String[] args) {

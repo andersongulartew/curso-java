@@ -1,4 +1,4 @@
-package src;
+package src.introducao.controledefluxo;
 
 public class ExercicioControleDeFluxo2 {
     public static void main(String[] args) {

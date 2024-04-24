@@ -1,4 +1,4 @@
-package src;
+package src.introducao.array;
 
 public class ArrayParte1 {
     public static void main(String[] args) {

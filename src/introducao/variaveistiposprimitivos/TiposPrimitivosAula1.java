@@ -1,4 +1,4 @@
-package src;
+package src.introducao.variaveistiposprimitivos;
 
 import java.util.Scanner;
 

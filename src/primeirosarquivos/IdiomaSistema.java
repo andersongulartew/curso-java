@@ -1,4 +1,4 @@
-package src.primeirosarquivosjava;
+package src.primeirosarquivos;
 import java.util.*;
 public class IdiomaSistema {
     public static void main(String[] args) {

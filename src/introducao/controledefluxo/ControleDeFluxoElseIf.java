@@ -1,6 +1,6 @@
-package src;
+package src.introducao.controledefluxo;
 
-public class ControleDeFluxo1 {
+public class ControleDeFluxoElseIf {
     public static void main(String[] args) {
         // ELSE IF
 

@@ -1,6 +1,6 @@
-package src;
+package src.introducao.controledefluxo;
 
-public class ControleDeFluxo2 {
+public class ControleDeFluxoSwitch {
     public static void main(String[] args) {
         // SWITCH  = parecido com else if ,porem ,mais reduzida.
 
