@@ -24,8 +24,10 @@ public class ProfessorTest {
         prof2.rg = "2086448977";
         prof2.cpf = "555.456.153-00";
 
-        prof.imprime(prof);
-        prof.imprime(prof2);
+        prof.imprime();
+        prof2.imprime();
+
+       //prof.imprime(prof2);
 
 
 
