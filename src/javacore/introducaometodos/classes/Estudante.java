@@ -11,15 +11,15 @@ public class Estudante {
 
         // primeira maneira
     public void tirarMedia() {
-        if (notas == null) {
+        if (this.notas == null) {
             System.out.println("Aluno nao possui notas");
             return;
         }
         double media = 0;
-        for (double nota : notas) {
+        for (double nota : this.notas) {
             media += nota;
         }
-        media = media / notas.length;
+        media = media / this.notas.length;
         if (media > 6) {
             System.out.println("\nA media é : " + media + ";Aprovado");
         } else {
@@ -39,20 +39,20 @@ public class Estudante {
 //
 //}
 
-
-
     public void imprimir() {
         System.out.println("Nome: " + this.nome);
         System.out.println("Idade: " + this.idade);
         //System.out.println("Media: " + this.media());
 
-        if ( notas !=null){
-            for (double nota : notas) {
+        if ( this.notas !=null){
+            for (double nota : this.notas) {
                 System.out.print("\n nota : " + nota + " ");
 
             }
         }
     }
+
+
 
 
     }

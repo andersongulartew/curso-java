@@ -5,15 +5,14 @@ import src.javacore.introducaometodos.classes.Estudante;
 public class EstudanteTest {
     public static void main(String[] args) {
 
-        Estudante estud = new Estudante();
-        estud.nome = "John Doe";
-        estud.idade = 31;
-        estud.notas = new double[]{8, 9, 10};
+        Estudante aluno = new Estudante();
+        aluno.nome = "John Doe";
+        aluno.idade = 31;
+        aluno.notas = new double[]{8, 9, 10};
 
 
+        aluno.imprimir();
 
-        estud.imprimir();
-
-        estud.tirarMedia();
+        aluno.tirarMedia();
     }
 }
